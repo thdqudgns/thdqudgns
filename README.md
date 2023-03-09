@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thdqudgns&layout=compact&theme=onedark)   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdqudgns)](https://solved.ac/thdqudgns)   
 
-I Leaening This : 
+I Leaning This : 
 [TIL](https://github.com/thdqudgns/TIL-Today-I-Learned)
 - Data Structure, Algorithm
 - Java, Spring
