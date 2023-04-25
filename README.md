@@ -5,9 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thdqudgns9612@gmail.com)](mailto:thdqudgns9612@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:thdqudgns96@naver.com)](mailto:thdqudgns96@naver.com)
 ---
-![thdqudgns's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdqudgns&show_icons=true&theme=onedark)   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thdqudgns&layout=compact&theme=onedark)   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdqudgns)](https://solved.ac/thdqudgns)   
+
+|GitHub stats|Top Langs|Algoritm|
+|:--:|:--:|:--:|
+|<img src="https://github-readme-stats.vercel.app/api?username=thdqudgns&show_icons=true&theme=onedark" width="300px">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdqudgns&layout=compact&theme=onedark" width="200px">|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdqudgns)](https://solved.ac/thdqudgns)|
 
 I Learning This : 
 [TIL](https://github.com/thdqudgns/TIL-Today-I-Learned)
