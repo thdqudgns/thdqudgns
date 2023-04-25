@@ -10,7 +10,7 @@
 |:--:|:--:|
 |<img src="https://github-readme-stats.vercel.app/api?username=thdqudgns&show_icons=true&theme=onedark" width="400px">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdqudgns&layout=compact&theme=onedark" width="300px">|
 
-|Algoritm|
+|Algorithm|
 |:--:|
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdqudgns)](https://solved.ac/thdqudgns)|
 
