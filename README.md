@@ -6,6 +6,7 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:thdqudgns96@naver.com)](mailto:thdqudgns96@naver.com)
 ---
 
+<!--
 |GitHub stats|Top Langs|
 |:--:|:--:|
 |<img src="https://github-readme-stats.vercel.app/api?username=thdqudgns&show_icons=true&theme=onedark" width="400px">|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thdqudgns&layout=compact&theme=onedark" width="300px">|
@@ -13,6 +14,7 @@
 |Algorithm|
 |:--:|
 |[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdqudgns)](https://solved.ac/thdqudgns)|
+-->
 
 <!--
 **thdqudgns/thdqudgns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
